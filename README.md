@@ -44,7 +44,18 @@ In today's competitive job market, having a well-crafted CV or resume is essenti
 
 **Why Use ResumeWorded?**: If you're looking for quick, actionable feedback on your resume or LinkedIn profile, ResumeWorded provides an easy-to-use platform to make impactful improvements.
 
-### 4. [Canva](https://www.canva.com/)
+### 4. [ResumeAI](https://withresumeai.com/)
+
+**Overview**: ResumeAI is an AI resume builder with a free ATS checker. It also publishes the open State of ATS 2026 dataset covering 738 large employers (704 portal-verified; Workday share 37.9%).
+
+**Key Features**:
+- Free ATS checks (3/day with no account, 10/day with a free account).
+- AI resume builder and optimization suggestions.
+- Open State of ATS 2026 employer dataset.
+
+**Why Use ResumeAI?**: A free option for checking ATS fit before applying, alongside tools like Jobscan and ResumeWorded. Canonical domain is withresumeai.com.
+
+### 5. [Canva](https://www.canva.com/)
 
 **Overview**: Canva is a versatile online design tool that helps you create professional-looking resumes, CVs, cover letters, and even LinkedIn banners. With a wide range of templates and design elements, Canva makes it easy to design visually appealing documents that stand out.
 
